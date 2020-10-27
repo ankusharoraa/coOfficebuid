@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8e3fb12f.chunk.css",
+    "main.js": "/static/js/main.b2d96742.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.cb2317f9.js",
+    "static/css/2.9c11037e.chunk.css": "/static/css/2.9c11037e.chunk.css",
+    "static/js/2.4de9fc1a.chunk.js": "/static/js/2.4de9fc1a.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.4ced946bbe4ddb8ff38ebeb08a8490ff.js": "/precache-manifest.4ced946bbe4ddb8ff38ebeb08a8490ff.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.4de9fc1a.chunk.js.LICENSE.txt": "/static/js/2.4de9fc1a.chunk.js.LICENSE.txt",
+    "static/media/cgLogo.png": "/static/media/cgLogo.872705a7.png",
+    "static/media/App.css": "/static/media/coworking3.69f47c8c.jpg",
+    "static/media/logo.jpg": "/static/media/logo.64531772.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb2317f9.js",
+    "static/css/2.9c11037e.chunk.css",
+    "static/js/2.4de9fc1a.chunk.js",
+    "static/css/main.8e3fb12f.chunk.css",
+    "static/js/main.b2d96742.chunk.js"
+  ]
+}
